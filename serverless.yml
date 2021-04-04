@@ -4,6 +4,9 @@ plugins:
   - serverless-stack-output
   - serverless-appsync-plugin
   - serverless-pseudo-parameters
+  - serverless-offline
+  - serverless-dynamodb-local
+  - serverless-appsync-simulator
 
 package:
   exclude:

@@ -16,7 +16,6 @@ import { createAuthLink } from "aws-appsync-auth-link";
 import { createSubscriptionHandshakeLink } from "aws-appsync-subscription-link";
 import Amplify, { Auth } from "aws-amplify";
 import awsConfig from "./aws-exports";
-import { Rehydrated } from "aws-appsync-react";
 
 import stack from "./stack.json";
 

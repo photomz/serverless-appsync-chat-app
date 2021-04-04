@@ -8,6 +8,9 @@
   },
   "devDependencies": {
     "aws-sdk": "^2.344.0",
+    "serverless-appsync-simulator": "^0.12.0",
+    "serverless-dynamodb-local": "^0.2.39",
+    "serverless-offline": "^6.8.0",
     "serverless-pseudo-parameters": "^2.5.0"
   },
   "scripts": {
